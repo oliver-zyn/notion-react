@@ -6,6 +6,8 @@
 
 Projeto criado para simular a interface e alguns funcionamentos básicos da ferramenta Notion.
 
+Aplicação em produção: https://notion-react-oliverzyn.netlify.app
+
 ## 💻 Tecnologias utilizadas
 
 - React.js
